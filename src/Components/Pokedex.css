@@ -1,0 +1,19 @@
+.Pokedex-Cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: white
+
+}
+
+.Search-Div{
+    display: block;
+    text-align: center
+}
+
+.PokeSearch-Form{
+    display: inline-block;
+    width: 74%;
+}

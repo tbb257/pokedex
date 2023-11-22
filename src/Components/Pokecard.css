@@ -1,0 +1,38 @@
+.Pokecard{
+    width: 250px;
+    height: 200px;
+    padding: 5px;
+    margin: 20px;
+    box-shadow: 7px 10px 20px -5px rgba(0,0,0,0.56);
+    text-align: center;
+    background-color: white;
+    border-radius: 10ex;
+}
+
+.Pokecard-Data{
+    font-size: 80%;
+}
+
+.Pokecard-Title{
+    font-size: 120%;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.Pokecard-Img{
+    width: 150px;
+}
+
+.Region-Nav{
+    font-weight: bold;
+    background-color: grey;
+    padding: 5px;
+    font-size:120%;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 10ex;
+}
+
+.navText{
+    color: white
+}

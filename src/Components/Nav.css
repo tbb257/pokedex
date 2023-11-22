@@ -1,0 +1,23 @@
+.navText{
+    color: black;
+    text-decoration: solid;
+    font-size:larger;
+}
+
+.Region-Nav{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 20fr;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.Poke-Logo{
+    padding-left:20px
+}

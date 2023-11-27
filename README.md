@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Greetings! In order to run the application, please perform the following steps. In the project directory, run the following command in the listed order:
 ### `npm install`
 This will install all dependencies such as react-router-dom
 

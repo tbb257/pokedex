@@ -20,8 +20,6 @@ class Pokecard extends Component{
             <div className="Pokecard" >
                 <h1 className="Pokecard-Title">{this.props.name[0].toUpperCase() + this.props.name.substring(1)}</h1>
                 <a href={PokeLink}><img className="Pokecard-Img" alt={this.props.name} src={imgSrc}></img></a>
-                {/* <div className="P"> Type: {this.props.type[0].toUpperCase()+this.props.type.substring(1)} </div> */}
-                {/* <div> EXP: {this.props.exp} </div> */}
             </div>
         );
     }

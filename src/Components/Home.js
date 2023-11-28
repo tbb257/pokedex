@@ -1,11 +1,11 @@
 import React from 'react'
-
+import "./Home.css"
 
 
 function Home(){
     return(
-        <div className="container ">
-            <h1>National Pokedex</h1>
+        <div className="HomePage">
+            <h1 className="TitleText">National Pokedex</h1>
         </div>
     )
 };

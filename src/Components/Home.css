@@ -1,0 +1,12 @@
+.HomePage{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.TitleText{
+    font-family: 'Pokemon Solid', sans-serif;
+    font-size:150px;
+    color: rgba(255, 255, 255, 0.678);
+    margin-top: 250px;
+}
